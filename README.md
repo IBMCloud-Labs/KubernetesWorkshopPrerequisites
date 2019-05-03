@@ -4,4 +4,4 @@
 
 2. Sign up for Katacoda here: https://www.katacoda.com/signup
 
-https://www.katacoda.com/courses/kubernetes/playground
+
