@@ -3,3 +3,5 @@
 1. Sign up for IBM Cloud here: https://cloud.ibm.com/login
 
 2. Sign up for Katacoda here: https://www.katacoda.com/signup
+
+https://www.katacoda.com/courses/kubernetes/playground
